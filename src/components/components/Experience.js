@@ -55,7 +55,7 @@ export const Experience = () => {
           ref={ref}/>
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2 mb-12 xs:mb-6">
           <Details
-            position="Intern"
+            position="Student"
             company="Telkom Digiup"
             companyLink="https://telkom-digiup.id"
             time="Fall 2024"
@@ -65,7 +65,7 @@ export const Experience = () => {
         </ul>
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2 mb-12 xs:mb-6">
           <Details
-            position="Intern"
+            position="Student"
             company="Golang Cohort-5"
             time="Fall 2024"
             address=""
@@ -74,7 +74,7 @@ export const Experience = () => {
         </ul>
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            position="Intern"
+            position="Student"
             company="Devscale"
             companyLink="https://www.devscale.id"
             time="Fall 2023"

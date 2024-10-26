@@ -119,17 +119,6 @@ export const NavMenu = () => {
             height={35}/>
           </motion.a>
           <motion.a
-            href="#"
-            whileHover={{ scale: 1.2 }}
-            className=" text-slate-100 cursor-pointer flex justify-center items-center"
-          >
-            <Image 
-            src="/linkedin_white.svg"
-            alt="linkedin"
-            width={35}
-            height={35}/>
-          </motion.a>
-          <motion.a
             href="https://x.com/VZaffana?t=wtnH-dixgIasgEQLMInuqg&s=09"
             target="_blank"
             whileHover={{ scale: 1.2 }}
