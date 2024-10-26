@@ -95,7 +95,8 @@ export const NavMenu = () => {
 
         <nav className="flex gap-4 lg:hidden">
           <motion.a
-            href="#"
+            href="https://www.instagram.com/vaiop.z/profilecard/?igsh=MTdsY2Q3cXJxMXo5Yw=="
+            target="_blank"
             whileHover={{ scale: 1.2 }}
             className="text-slate-100 cursor-pointer flex justify-center items-center"
           >
@@ -106,7 +107,8 @@ export const NavMenu = () => {
             height={35}/>
           </motion.a>
           <motion.a
-            href="#"
+            href="https://github.com/vaiozaffana"
+            target="_blank"
             whileHover={{ scale: 1.2 }}
             className="text-slate-100 cursor-pointer flex justify-center items-center"
           >
@@ -128,7 +130,8 @@ export const NavMenu = () => {
             height={35}/>
           </motion.a>
           <motion.a
-            href="#"
+            href="https://x.com/VZaffana?t=wtnH-dixgIasgEQLMInuqg&s=09"
+            target="_blank"
             whileHover={{ scale: 1.2 }}
             className="text-slate-100 cursor-pointer flex justify-center items-center"
           >

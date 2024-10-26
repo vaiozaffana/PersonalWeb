@@ -53,6 +53,25 @@ export const Experience = () => {
             scale: scrollYProgress,
           }}
           ref={ref}/>
+          <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2 mb-12 xs:mb-6">
+          <Details
+            position="Intern"
+            company="Telkom Digiup"
+            companyLink="https://telkom-digiup.id"
+            time="Fall 2024"
+            address=""
+            work="Telkom Digiup adalah bootcamp yang menawarkan berbagai program pelatihan teknologi untuk meningkatkan keterampilan di bidang pemrograman dan pengembangan perangkat lunak. Di antara banyak pilihan, saya memilih program Golang Beginner Fundamental, yang berfokus pada dasar-dasar bahasa pemrograman Golang"
+          />
+        </ul>
+          <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2 mb-12 xs:mb-6">
+          <Details
+            position="Intern"
+            company="Golang Cohort-5"
+            time="Fall 2024"
+            address=""
+            work="Saya adalah peserta dalam Bootcamp Golang Cohort-5, sebuah program yang berfokus pada pembelajaran fundamental Golang. Dalam bootcamp ini, saya mendalami konsep dasar pemrograman Go, mulai dari sintaks hingga penerapan best practices dalam pengembangan aplikasi."
+          />
+        </ul>
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             position="Intern"
