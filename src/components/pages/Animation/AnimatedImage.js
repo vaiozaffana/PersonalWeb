@@ -11,7 +11,7 @@ export const AnimatedImage = () => {
     <div className='rounded-2xl relative border-2 border-solid border-white bg-darkGray p-8 md:block lg:hidden'>
       <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-white' />
         <MotionImage 
-        src="/myProfile1.jpeg"
+        src="/my-pfp.png"
         alt="Vaio Prasa Zaffana"
         width={250}
         height={25}
