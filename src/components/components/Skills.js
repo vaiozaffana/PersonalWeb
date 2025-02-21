@@ -28,12 +28,12 @@ export const Skills = () => {
       Web
     </motion.div>
 
-    <Skill name="HTML" x="-30vw" y="4vw"/>
-    <Skill name="CSS" x="-12vw" y="-10vw"/>
-    <Skill name="Tailwind CSS" x="-2vw" y="13vw"/>
+    <Skill name="Laravel" x="-30vw" y="4vw"/>
+    <Skill name="React Native" x="-15vw" y="-10vw"/>
+    <Skill name="Go" x="-2vw" y="13vw"/>
     <Skill name="JavaScript" x="29vw" y="5vw"/>
-    <Skill name="NextJS" x="14.5vw" y="-4vw"/>
-    <Skill name="GitHub" x="10vw" y="-17vw" />
+    <Skill name="Next JS" x="14.5vw" y="-4vw"/>
+    <Skill name="Git" x="10vw" y="-17vw" />
     </div>
     </>
   )
