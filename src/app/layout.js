@@ -1,7 +1,7 @@
 import { Inter, Montserrat } from "next/font/google";
 import { Provider } from "../provider";
-import { NavMenu } from "../components/(components)/NavMenu";
-import { Footer } from "../components/(components)/Footer"
+import { NavMenu } from "../components/pages/NavMenu";
+import { Footer } from "../components/pages/Footer"
 import "@/styles/globals.css";
 
 const inter = Inter({ subsets: ["latin"] });

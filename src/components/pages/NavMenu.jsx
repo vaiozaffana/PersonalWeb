@@ -95,7 +95,7 @@ export const NavMenu = () => {
 
         <nav className="flex gap-4 lg:hidden">
           <motion.a
-            href="https://www.instagram.com/vaiop.z/profilecard/?igsh=MTdsY2Q3cXJxMXo5Yw=="
+            href="https://www.instagram.com/vaiop.z/?igsh=MTdsY2Q3cXJxMXo5Yw=="
             target="_blank"
             whileHover={{ scale: 1.2 }}
             className="text-slate-100 cursor-pointer flex justify-center items-center"
@@ -103,6 +103,18 @@ export const NavMenu = () => {
             <Image 
             src="/instagram_white.svg"
             alt="instagram"
+            width={35}
+            height={35}/>
+          </motion.a>
+          <motion.a
+            href="https://www.linkedin.com/in/vaio-prasa-zaffana-b926bb2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            target="_blank"
+            whileHover={{ scale: 1.2 }}
+            className="text-slate-100 cursor-pointer flex justify-center items-center"
+          >
+            <Image 
+            src="/linkedin_white.svg"
+            alt="linkedin"
             width={35}
             height={35}/>
           </motion.a>
