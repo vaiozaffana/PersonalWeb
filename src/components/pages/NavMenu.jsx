@@ -168,29 +168,32 @@ export const NavMenu = () => {
 
           <nav className="flex gap-4 mt-2">
             <motion.a
-              href="#"
+              href="https://www.instagram.com/vaiop.z/?igsh=MTdsY2Q3cXJxMXo5Yw=="
+              target="_blank" 
               whileHover={{ scale: 1.2 }}
               className="text-darkGray cursor-pointer flex justify-center items-center"
             >
               <Image 
             src="/instagram_dark.svg"
-            alt="x"
+            alt="instagram"
             width={35}
             height={35}/>
             </motion.a>
             <motion.a
-              href="#"
+              href="https://github.com/vaiozaffana"
+              target="_blank"
               whileHover={{ scale: 1.2 }}
               className="text-darkGray cursor-pointer flex justify-center items-center"
             >
               <Image 
             src="/github_dark.svg"
-            alt="x"
+            alt="github"
             width={35}
             height={35}/>
             </motion.a>
             <motion.a
-              href="#"
+              href="https://x.com/VZaffana?t=wtnH-dixgIasgEQLMInuqg&s=09"
+              target="_blank"
               whileHover={{ scale: 1.2 }}
               className="text-darkGray cursor-pointer flex justify-center items-center"
             >
@@ -201,13 +204,14 @@ export const NavMenu = () => {
             height={35}/>
             </motion.a>
             <motion.a
-              href="#"
+              href="https://www.linkedin.com/in/vaio-prasa-zaffana-b926bb2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              target="_blank"
               whileHover={{ scale: 1.2 }}
               className="text-darkGray cursor-pointer flex justify-center items-center"
             >
               <Image 
             src="/linkedin_dark.svg"
-            alt="x"
+            alt="linkedin"
             width={35}
             height={35}/>
             </motion.a>
