@@ -136,7 +136,7 @@ const Projects = () => {
                 title="MoodyfAI"
                 img="/FeaturedProject1.jpeg"
                 shortSummary="Website AI rekomendasi musik atau lagu berdasarkan mood yang telah dimasukkan oleh pengguna."
-                github="https://github.com/vaiozaffana/Project_ukl.git"
+                github="https://github.com/hanafiandrean/finalproject_inkubasi.git"
                 type="Project"
               />
             </div>
@@ -153,8 +153,8 @@ const Projects = () => {
               <FeaturedProject
                 title="WF Law Office"
                 img="/FeaturedProject2.png"
-                summary="Volunify adalah platform yang menghubungkan relawan dengan berbagai kesempatan volunteer. Anda bisa bergabung dengan acara yang sesuai minat, menciptakan program volunteer sendiri, dan selalu up-to-date dengan daftar acara terbaru. Jadikan langkah pertama Anda untuk memberikan dampak positif lebih mudah dan menyenangkan dengan Volunify!"
-                github="https://github.com/dhiodhaha/volunify.git"
+                summary="Website resmi WF Law Office, sebuah firma hukum di Kabupaten Sidoarjo yang menyediakan berbagai layanan hukum profesional untuk klien individu dan bisnis."
+                github="https://github.com/Rawnreff/wf-law.git"
                 type="Featured Project"
               />
             </div>
